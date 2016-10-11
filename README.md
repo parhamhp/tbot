@@ -1,4 +1,4 @@
-# TelegramBot_Py
+# Tbot
 Telegram Bot APi in Python simple :)
 
 ## Example usage
